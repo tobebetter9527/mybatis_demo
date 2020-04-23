@@ -1,0 +1,10 @@
+
+q
+java:S2095"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(·ë¡ãøÿÿÿÿ8¦£Ÿ—.
+Z	java:S106%"9Replace this use of System.out or System.err by a logger.(“ÒÆªùÿÿÿÿ8®Ò Ÿ—.
+Z	java:S106#"9Replace this use of System.out or System.err by a logger.(À¶Şİøÿÿÿÿ8®Ò Ÿ—.
+O
+java:S4925"-Remove this "Class.forName()", it is useless.(¹µÖÁüÿÿÿÿ8®Ò Ÿ—.
+T	java:S106$"9Replace this use of System.out or System.err by a logger.(ÔĞÂ28®Ò Ÿ—.
+j
+java:S2095"HUse try-with-resources or close this "Connection" in a "finally" clause.(’àŒµüÿÿÿÿ8ÜÏ¢Ÿ—.
